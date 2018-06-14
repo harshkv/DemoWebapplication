@@ -1,0 +1,42 @@
+
+body{
+  background-color:#1b4f70;
+  text-align: center;
+  border:60px solid #4891a5;
+  border-top:0px solid #1b4f70;
+  margin: 0px;
+  font-size:21px;
+  color:white;
+  font-family: 'PT Sans Narrow', sans-serif;
+
+}
+p{
+  text-align:center;
+  padding-left:25%;
+  padding-right:25%;
+  padding-top:5%;
+
+
+}
+h1,h2{
+  margin-bottom:5%;
+
+}
+
+.forms{
+  margin-bottom:20px;
+
+
+}
+#sub{
+   border-radius:25%;
+   width: 150px;
+   height:50px;
+   background-color:#cccc66;
+   margin-top:15px;
+   font-size:1.0em;
+   margin-bottom:6px;
+
+ }
+
+ }
